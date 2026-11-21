@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:2B2D31,100:FFC93C&text=Hossam%20Mostafa&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20.NET%20%26%20Front-End%20Developer&descSize=18&descAlignY=60" alt="Hossam Mostafa - Full Stack .NET and Front-End Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:2B2D31,100:FFC93C&text=Hossam%20Mostafa&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20.NET%20and%20Front-End%20Developer&descSize=18&descAlignY=60" alt="Hossam Mostafa - Full Stack .NET and Front-End Developer" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FFC93C&center=true&vCenter=true&width=640&height=40&lines=ASP.NET+Core+%C2%B7+C%23+%C2%B7+SQL+Server;Angular+%C2%B7+React+%C2%B7+TypeScript;REST+APIs+%C2%B7+Clean+Architecture;Building+things+that+ship" />
