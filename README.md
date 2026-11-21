@@ -10,10 +10,10 @@
 
 <br />
 
-<a href="[https://YOUR-PORTFOLIO-URL](https://hosam-mostafa.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-2B2D31?style=for-the-badge&logo=googlechrome&logoColor=FFC93C" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/hosammostfa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:hossammostafa6520@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/Hosam__mostafa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://hosam-mostafa.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-2B2D31?style=for-the-badge&logo=googlechrome&logoColor=FFC93C" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/hosammostfa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hossammostafa6520@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/Hosam__mostafa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 <br />
 <br />
@@ -86,19 +86,19 @@ On the back end I build with **ASP.NET Core, Entity Framework Core and SQL Serve
 | Project | What it is | Stack | Links |
 | :-- | :-- | :-- | :-- |
 | **SMARTPOOL** 🏆 | AI-based swimming pool monitoring dashboard that detects drowning incidents and abnormal swimmer behavior in real time, with role-based access and instant alerts. **3rd place at Google DevFest Assiut.** | Next.js 14, React, MongoDB, Deep Learning | Graduation project |
-| **Dar Al-Nakheel** | Bilingual (Arabic/English) calligraphy e-commerce studio: live Arabic typography preview, limited-edition catalog, cart with printable tax invoice, customer and admin dashboards. | React, Vite, Tailwind CSS v4, Supabase (Auth, PostgreSQL, RLS) | [Live](https://lively-bienenstitch-ea151f.netlify.app/) · [Code](https://github.com/HosamMosstfa/dar-alnakheel) |
-| **Digital Notes Manager** | .NET 8 desktop app with PBKDF2 password hashing, a custom rich-text editor with JSON/HTML export, and background reminders with real-time notifications. | C#, .NET 8, WinForms, EF Core, SQL Server, LINQ | [Code](https://github.com/HosamMosstfa/DigitalNotesManager) |
-| **Movie Discovery and Tracking** | Angular SPA on the TMDB API with trailers, multi-criteria filtering, localization, Dark/Light theme and a persistent per-user watchlist. | Angular, TypeScript, RxJS, Firebase, Bootstrap | [Live](https://beshoywageh.github.io/movie-app/) |
-| **.store** | Multi-page e-commerce storefront simulating the full shopping journey: cart, wishlist, checkout, coupons, Dark/Light mode and a Swiper product gallery. | HTML5, CSS3, JavaScript (ES6+), Swiper.js | [Live](https://hosammosstfa.github.io/semiFinalProjectECommerce/) · [Code](https://github.com/HosamMosstfa/semiFinalProjectECommerce) |
-| **E-Commerce Platform** | ITI Agile team project (team of 5): customer UI modules (products, cart, orders, wishlist) and admin tools with search and pagination. | HTML5, CSS3, JavaScript, Bootstrap, Git | [Live](https://project-js-iti.vercel.app/) |
-| **AI Chat Assistant and Image Generator** | Web app on the Fireworks.ai REST APIs for GPT conversations and image generation, with async handling and live chat history. | JavaScript (ES6+), REST APIs, Bootstrap 5 | [Live](https://hosammosstfa.github.io/ChatGPTDemo-ITI-Project/) · [Code](https://github.com/HosamMosstfa/ChatGPTDemo-ITI-Project) |
+| **Dar Al-Nakheel** | Bilingual (Arabic/English) calligraphy e-commerce studio: live Arabic typography preview, limited-edition catalog, cart with printable tax invoice, customer and admin dashboards. | React, Vite, Tailwind CSS v4, Supabase (Auth, PostgreSQL, RLS) | <a href="https://lively-bienenstitch-ea151f.netlify.app/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/HosamMosstfa/dar-alnakheel" target="_blank" rel="noopener noreferrer">Code</a> |
+| **Digital Notes Manager** | .NET 8 desktop app with PBKDF2 password hashing, a custom rich-text editor with JSON/HTML export, and background reminders with real-time notifications. | C#, .NET 8, WinForms, EF Core, SQL Server, LINQ | <a href="https://github.com/HosamMosstfa/DigitalNotesManager" target="_blank" rel="noopener noreferrer">Code</a> |
+| **Movie Discovery and Tracking** | Angular SPA on the TMDB API with trailers, multi-criteria filtering, localization, Dark/Light theme and a persistent per-user watchlist. | Angular, TypeScript, RxJS, Firebase, Bootstrap | <a href="https://beshoywageh.github.io/movie-app/" target="_blank" rel="noopener noreferrer">Live</a> |
+| **.store** | Multi-page e-commerce storefront simulating the full shopping journey: cart, wishlist, checkout, coupons, Dark/Light mode and a Swiper product gallery. | HTML5, CSS3, JavaScript (ES6+), Swiper.js | <a href="https://hosammosstfa.github.io/semiFinalProjectECommerce/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/HosamMosstfa/semiFinalProjectECommerce" target="_blank" rel="noopener noreferrer">Code</a> |
+| **E-Commerce Platform** | ITI Agile team project (team of 5): customer UI modules (products, cart, orders, wishlist) and admin tools with search and pagination. | HTML5, CSS3, JavaScript, Bootstrap, Git | <a href="https://project-js-iti.vercel.app/" target="_blank" rel="noopener noreferrer">Live</a> |
+| **AI Chat Assistant and Image Generator** | Web app on the Fireworks.ai REST APIs for GPT conversations and image generation, with async handling and live chat history. | JavaScript (ES6+), REST APIs, Bootstrap 5 | <a href="https://hosammosstfa.github.io/ChatGPTDemo-ITI-Project/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/HosamMosstfa/ChatGPTDemo-ITI-Project" target="_blank" rel="noopener noreferrer">Code</a> |
 
 <br />
 
 ## Education and Training
 
-- **Full Stack Web Development Using .NET Track**, Information Technology Institute (ITI), Minya · Jul 2025 – Dec 2025 · [Certificate](https://drive.google.com/file/d/17CE9Ks6h55_z2TXR6RtV4RaJFR2fOJos/view?usp=sharing)
-- **Front-End Development Diploma (160 hours)**, EraaSoft Academy, Cairo · 2024 · [Certificate](https://drive.google.com/file/d/1sQBsbleptCV1Aapn5RNyUpxJq7QQydHR/view?usp=sharing)
+- **Full Stack Web Development Using .NET Track**, Information Technology Institute (ITI), Minya · Jul 2025 – Dec 2025 · <a href="https://drive.google.com/file/d/17CE9Ks6h55_z2TXR6RtV4RaJFR2fOJos/view?usp=sharing" target="_blank" rel="noopener noreferrer">Certificate</a>
+- **Front-End Development Diploma (160 hours)**, EraaSoft Academy, Cairo · 2024 · <a href="https://drive.google.com/file/d/1sQBsbleptCV1Aapn5RNyUpxJq7QQydHR/view?usp=sharing" target="_blank" rel="noopener noreferrer">Certificate</a>
 - **B.Sc. in Computer Science**, Egyptian E-Learning University · Sep 2021 – Jun 2024
 
 <br />
@@ -107,8 +107,8 @@ On the back end I build with **ASP.NET Core, Entity Framework Core and SQL Serve
 
 I'm looking for a **Full Stack .NET**, **Back-End .NET** or **Front-End** role, remote or in Saudi Arabia or Egypt. If you have an opportunity, feedback on a project, or an idea to build together, I'd love to hear from you.
 
-- 📧 [hossammostafa6520@gmail.com](mailto:hossammostafa6520@gmail.com)
-- 💼 [linkedin.com/in/hosammostfa](https://www.linkedin.com/in/hosammostfa)
-- 🐦 [x.com/Hosam__mostafa](https://x.com/Hosam__mostafa)
+- 📧 <a href="mailto:hossammostafa6520@gmail.com" target="_blank" rel="noopener noreferrer">hossammostafa6520@gmail.com</a>
+- 💼 <a href="https://www.linkedin.com/in/hosammostfa" target="_blank" rel="noopener noreferrer">linkedin.com/in/hosammostfa</a>
+- 🐦 <a href="https://x.com/Hosam__mostafa" target="_blank" rel="noopener noreferrer">x.com/Hosam__mostafa</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FFC93C,100:2B2D31" alt="" width="100%" />
