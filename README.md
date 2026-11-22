@@ -31,6 +31,7 @@ I'm a **Full Stack .NET and Front-End developer**, a graduate of the **ITI Full 
 On the back end I build with **ASP.NET Core, Entity Framework Core and SQL Server**. On the front end I work with **Angular, React and TypeScript**. I care about clean structure, secure authentication, and interfaces that stay fast and usable on every screen size.
 
 - 🏆 **3rd place, Google DevFest Assiut** for SMARTPOOL, an AI-based drowning detection dashboard
+- 🥗 **NutriGuide**, my ITI graduation project: an AI-driven meal planning platform built with Angular and ASP.NET Core
 - 🎓 ITI Full Stack .NET Track (Jul – Dec 2025) · EraaSoft Front-End Diploma, 160 hours (2024)
 - 🔨 Currently building a **Task Manager REST API** with ASP.NET Core Web API, EF Core and SQL Server
 - 📚 Strengthening fundamentals: C#, data structures and SQL
@@ -85,19 +86,20 @@ On the back end I build with **ASP.NET Core, Entity Framework Core and SQL Serve
 
 | Project | What it is | Stack | Links |
 | :-- | :-- | :-- | :-- |
-| **SMARTPOOL** 🏆 | AI-based swimming pool monitoring dashboard that detects drowning incidents and abnormal swimmer behavior in real time, with role-based access and instant alerts. **3rd place at Google DevFest Assiut.** | Next.js 14, React, MongoDB, Deep Learning | Graduation project |
+| **SMARTPOOL** 🏆 | AI-based swimming pool monitoring dashboard that detects drowning incidents and abnormal swimmer behavior in real time, with role-based access and instant alerts. **3rd place at Google DevFest Assiut.** | Next.js 14, React, MongoDB, Deep Learning | <a href="https://github.com/HosamMosstfa/projectgraduation" target="_blank" rel="noopener noreferrer">Code</a> |
+| **NutriGuide** | AI-driven meal planning platform and ITI graduation project (Oct – Dec 2025, team project): personalized meal plans, nutrition analytics, auto-generated shopping lists, real-time notifications and an admin dashboard. | Angular, TypeScript, ASP.NET Core Web API, EF Core, SQL Server, SignalR, JWT | <a href="https://nutri-guide-olive.vercel.app/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/Mohamed-Abdulmajeed/NutriGuide" target="_blank" rel="noopener noreferrer">Code</a> |
 | **Dar Al-Nakheel** | Bilingual (Arabic/English) calligraphy e-commerce studio: live Arabic typography preview, limited-edition catalog, cart with printable tax invoice, customer and admin dashboards. | React, Vite, Tailwind CSS v4, Supabase (Auth, PostgreSQL, RLS) | <a href="https://lively-bienenstitch-ea151f.netlify.app/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/HosamMosstfa/dar-alnakheel" target="_blank" rel="noopener noreferrer">Code</a> |
 | **Digital Notes Manager** | .NET 8 desktop app with PBKDF2 password hashing, a custom rich-text editor with JSON/HTML export, and background reminders with real-time notifications. | C#, .NET 8, WinForms, EF Core, SQL Server, LINQ | <a href="https://github.com/HosamMosstfa/DigitalNotesManager" target="_blank" rel="noopener noreferrer">Code</a> |
-| **Movie Discovery and Tracking** | Angular SPA on the TMDB API with trailers, multi-criteria filtering, localization, Dark/Light theme and a persistent per-user watchlist. | Angular, TypeScript, RxJS, Firebase, Bootstrap | <a href="https://beshoywageh.github.io/movie-app/" target="_blank" rel="noopener noreferrer">Live</a> |
+| **Movie Discovery and Tracking** | Angular SPA on the TMDB API with trailers, multi-criteria filtering, localization, Dark/Light theme and a persistent per-user watchlist. | Angular, TypeScript, RxJS, Firebase, Bootstrap | <a href="https://beshoywageh.github.io/movie-app/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/BeshoyWageh/movie-app" target="_blank" rel="noopener noreferrer">Code</a> |
 | **.store** | Multi-page e-commerce storefront simulating the full shopping journey: cart, wishlist, checkout, coupons, Dark/Light mode and a Swiper product gallery. | HTML5, CSS3, JavaScript (ES6+), Swiper.js | <a href="https://hosammosstfa.github.io/semiFinalProjectECommerce/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/HosamMosstfa/semiFinalProjectECommerce" target="_blank" rel="noopener noreferrer">Code</a> |
-| **E-Commerce Platform** | ITI Agile team project (team of 5): customer UI modules (products, cart, orders, wishlist) and admin tools with search and pagination. | HTML5, CSS3, JavaScript, Bootstrap, Git | <a href="https://project-js-iti.vercel.app/" target="_blank" rel="noopener noreferrer">Live</a> |
+| **E-Commerce Platform** | ITI Agile team project (team of 5): customer UI modules (products, cart, orders, wishlist) and admin tools with search and pagination. | HTML5, CSS3, JavaScript, Bootstrap, Git | <a href="https://project-js-iti.vercel.app/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/HosamMosstfa/Project-JS-ITI" target="_blank" rel="noopener noreferrer">Code</a> |
 | **AI Chat Assistant and Image Generator** | Web app on the Fireworks.ai REST APIs for GPT conversations and image generation, with async handling and live chat history. | JavaScript (ES6+), REST APIs, Bootstrap 5 | <a href="https://hosammosstfa.github.io/ChatGPTDemo-ITI-Project/" target="_blank" rel="noopener noreferrer">Live</a> · <a href="https://github.com/HosamMosstfa/ChatGPTDemo-ITI-Project" target="_blank" rel="noopener noreferrer">Code</a> |
 
 <br />
 
 ## Education and Training
 
-- **Full Stack Web Development Using .NET Track**, Information Technology Institute (ITI), Minya · Jul 2025 – Dec 2025 · <a href="https://drive.google.com/file/d/17CE9Ks6h55_z2TXR6RtV4RaJFR2fOJos/view?usp=sharing" target="_blank" rel="noopener noreferrer">Certificate</a>
+- **Full Stack Web Development Using .NET Track**, Information Technology Institute (ITI), Minya · Jul 2025 – Dec 2025 (graduation project: NutriGuide) · <a href="https://drive.google.com/file/d/17CE9Ks6h55_z2TXR6RtV4RaJFR2fOJos/view?usp=sharing" target="_blank" rel="noopener noreferrer">Certificate</a>
 - **Front-End Development Diploma (160 hours)**, EraaSoft Academy, Cairo · 2024 · <a href="https://drive.google.com/file/d/1sQBsbleptCV1Aapn5RNyUpxJq7QQydHR/view?usp=sharing" target="_blank" rel="noopener noreferrer">Certificate</a>
 - **B.Sc. in Computer Science**, Egyptian E-Learning University · Sep 2021 – Jun 2024
 
